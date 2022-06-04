@@ -99,4 +99,8 @@ export const WORDS = [
     'likha',
     'jalan',
     'jalim',
+    'manav',
+    'laate',
+    'baate',
+    'kaate',
   ]
