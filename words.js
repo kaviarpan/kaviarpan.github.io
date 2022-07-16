@@ -208,4 +208,11 @@ export const WORDS = [
     'dhong',
     'dukan',
     'dhang',
+    'munna',
+    'sahit',
+    'sumit',
+    'anadi',
+    'narad',
+    'nakal',
+    'sharm',
   ]
