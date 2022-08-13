@@ -215,4 +215,13 @@ export const WORDS = [
     'narad',
     'nakal',
     'sharm',
+    'kumar',
+    'tedha',
+    'aahat',
+    'kasht',
+    'nasht',
+    'nasht',
+    'billi',
+   'resha',
   ]
+
