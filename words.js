@@ -222,6 +222,9 @@ export const WORDS = [
     'nasht',
     'nasht',
     'billi',
-   'resha',
+   'pukar',
+   'halak',
+   'kitab',
+   'rashi',
   ]
 
