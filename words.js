@@ -226,5 +226,7 @@ export const WORDS = [
    'halak',
    'kitab',
    'rashi',
+   'insan',
+   'kissa',
   ]
 
