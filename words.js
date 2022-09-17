@@ -228,5 +228,12 @@ export const WORDS = [
    'rashi',
    'insan',
    'kissa',
+   'bimar',
+   'dikha',
+   'jyoti',
+   'shlok',
+   'hilte',
+   'pulak',
+   'kajal',
   ]
 
