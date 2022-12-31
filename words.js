@@ -514,5 +514,13 @@ export const WORDS = [
    'bahka',
    'mohak',
    'chhak',
+   'paltu',
+   'rahta',
+   'kante',
+   'katte',
+   'kursi',
+   'khuli',
+   'khudi',
+   'khubi',
   ]
 
